@@ -3,7 +3,7 @@
 	url = https://github.com/couchbase/couchbase-lite-java-ce
 [submodule "common"]
 	path = common
-	url = https://github.com/couchbase/couchbase-lite-java-common
+	url = git@github.com:turingvideo/couchbase-lite-java-common.git
 [submodule "core"]
 	path = core
 	url = git://github.com/couchbase/couchbase-lite-core
