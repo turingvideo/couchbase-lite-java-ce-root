@@ -4,6 +4,8 @@
 [submodule "common"]
 	path = common
 	url = git@github.com:turingvideo/couchbase-lite-java-common.git
+	branch = tv-master
 [submodule "core"]
 	path = core
-	url = git://github.com/couchbase/couchbase-lite-core
+	url = git@github.com:turingvideo/couchbase-lite-core.git
+	branch = tv-master
